@@ -1,0 +1,9 @@
+begin
+int money = 0
+while money < 1.0
+{
+print 1money
+money = money + .5
+}
+file << my_dollar
+end

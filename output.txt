@@ -1,0 +1,22 @@
+begin reserved word
+int reserved word
+money identifier
+= math operator
+0 integer
+while reserved word
+money identifier
+< comparison operator
+1.0 float
+{ grouping operator
+print reserved word
+1money ERROR CODE 1: Lexical error: token not valid in language
+money identifier
+= math operator
+money identifier
++ math operator
+.5 float
+} grouping operator
+file identifier
+<< shift operator
+my_dollar ERROR CODE 0: Lexical error: invalid character found in token
+end ERROR CODE 1: Lexical error: token not valid in language
